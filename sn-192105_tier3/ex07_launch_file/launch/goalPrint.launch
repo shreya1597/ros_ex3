@@ -1,0 +1,4 @@
+ <launch>
+  <node pkg="ex07_launch_file" type="gl_pub.py" name="goals_print" output="screen">
+  </node>
+</launch>

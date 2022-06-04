@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="ex11_geometric_as" type="geometric_series.py" name="geometric" output="screen">
+  </node>
+</launch>

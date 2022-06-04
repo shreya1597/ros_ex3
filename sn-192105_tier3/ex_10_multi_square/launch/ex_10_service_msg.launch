@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="ex_10_multi_square" type="service_msg.py" name="multi_square" output="screen">
+  </node>
+</launch>

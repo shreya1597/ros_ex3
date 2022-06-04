@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="ex12_turtle_as" type="turtle_direction.py" name="turtle_direc" output="screen">
+  </node>
+</launch>
